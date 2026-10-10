@@ -14,7 +14,7 @@ def generate_sensor_data():
     }
 
 
-# STEP 2, STEP 7 and STEP 8: Create rules  
+# STEP 2, STEP 7 and STEP 8: Create rules 
 RULES = [
     {
         "name": "HIGH_TEMP",
