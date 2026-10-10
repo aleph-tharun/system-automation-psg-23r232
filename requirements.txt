@@ -1,0 +1,11 @@
+# 23IF02 System Automation — Workshop Environment
+# Install with: pip install -r requirements.txt
+
+numpy==1.26.4            # numerical arrays, used across Day 1 & Day 2
+pandas==2.2.2            # loading & exploring the sensor dataset (Day 2)
+matplotlib==3.8.4        # charts for data exploration (Day 2)
+seaborn==0.13.2          # nicer statistical plots (Day 2)
+scikit-learn==1.4.2      # training the predictive maintenance model (Day 2)
+jupyter==1.0.0           # notebook environment for hands-on exercises
+notebook==7.1.3          # Jupyter Notebook interface
+streamlit==1.34.0        # simple automation dashboard (Day 1 & Day 2)
