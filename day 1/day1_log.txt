@@ -1,0 +1,10 @@
+{'temperature': 79, 'pressure': 2, 'vibration': 0.39, 'current': 9} | NO_RULE_FIRED | CONTINUE_NORMAL
+{'temperature': 69, 'pressure': 1, 'vibration': 0.81, 'current': 10} | NO_RULE_FIRED | CONTINUE_NORMAL
+{'temperature': 50, 'pressure': 2, 'vibration': 0.86, 'current': 16} | NO_RULE_FIRED | CONTINUE_NORMAL
+{'temperature': 91, 'pressure': 4, 'vibration': 0.68, 'current': 7} | HIGH_TEMP | STOP_MACHINE
+{'temperature': 77, 'pressure': 1, 'vibration': 1.65, 'current': 8} | HIGH_VIBRATION | STOP_MACHINE
+{'temperature': 92, 'pressure': 5, 'vibration': 1.94, 'current': 5} | HIGH_TEMP | STOP_MACHINE
+{'temperature': 58, 'pressure': 3, 'vibration': 1.46, 'current': 5} | NO_RULE_FIRED | CONTINUE_NORMAL
+{'temperature': 53, 'pressure': 3, 'vibration': 1.58, 'current': 9} | HIGH_VIBRATION | STOP_MACHINE
+{'temperature': 67, 'pressure': 3, 'vibration': 1.6, 'current': 7} | HIGH_VIBRATION | STOP_MACHINE
+{'temperature': 91, 'pressure': 2, 'vibration': 0.15, 'current': 10} | HIGH_TEMP | STOP_MACHINE
