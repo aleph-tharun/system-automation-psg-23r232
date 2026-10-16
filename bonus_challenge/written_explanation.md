@@ -1,6 +1,6 @@
 # Robotic Arm Joint Health Monitoring System — System Explanation
 
-**Author:** Undergraduate Student  
+**Author:** S Tharun Bhalaaji (23R232)
 **Course Module:** System Automation (Bonus Challenge)
 
 ---
