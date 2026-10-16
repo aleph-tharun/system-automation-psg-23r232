@@ -2,7 +2,7 @@
 Robotic Arm Joint Health Monitoring System
 ==========================================
 Bonus Challenge Implementation
-Author: Undergraduate Student
+Author: S Tharun Bhalaaji (23R232)
 Description:
     Monitors 6-axis robotic arms on an assembly line using:
     1. Deterministic immediate safety stops
